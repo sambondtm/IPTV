@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1,Bloomberg TV UK
+http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
+#EXTINF:-1,CCTV CAM 1
+http://192.168.2.108:8080/video
