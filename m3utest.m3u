@@ -3,3 +3,5 @@
 http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
 #EXTINF:-1,CCTV CAM 1
 http://192.168.2.108:8080/video
+tvg-id=”Bloomberg Test” tvg-logo=”https://data.bloomberglp.com/media/sites/5/2017/10/bb_app_logo.jpg”, 
+http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
