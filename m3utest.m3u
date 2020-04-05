@@ -1,5 +1,7 @@
 #EXTM3U
-#EXTINF:0 tvg-name="Bloomberg TV UK" tvg-logo="https://www.pngitem.com/pimgs/m/487-4873921_bloomberg-b-logo-hd-png-download.png",Bloomberg TV UK
+#EXTINF:0 tvg-name="Bloomberg TV UK" tvg-logo="https://www.pngitem.com/pimgs/m/487-4873921_bloomberg-b-logo-hd-png-download.png" group-title="TV",Bloomberg TV UK
 http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
-#EXTINF:0 tvg-name="CCTV CAM 1" tvg-logo="https://p7.hiclipart.com/preview/981/509/135/closed-circuit-television-wireless-security-camera-surveillance-clip-art-ict-bulletin-cctv-brochure.jpg",CCTV CAM 1
+#EXTINF:0 tvg-name="CCTV Hallway" tvg-logo="https://p7.hiclipart.com/preview/981/509/135/closed-circuit-television-wireless-security-camera-surveillance-clip-art-ict-bulletin-cctv-brochure.jpg" group-title="CCTV",CCTV Hallway
 http://192.168.2.108:8080/video
+#EXTINF:0 tvg-name="CCTV Hallway" tvg-logo="https://p7.hiclipart.com/preview/981/509/135/closed-circuit-television-wireless-security-camera-surveillance-clip-art-ict-bulletin-cctv-brochure.jpg" group-title="CCTV",CCTV Play Mat
+http://192.168.2.182:8080/video
