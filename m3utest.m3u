@@ -8,4 +8,4 @@ http://192.168.2.182:8080/video
 #EXTINF:0 tvg-name="Test Video" tvg-logo="https://p7.hiclipart.com/preview/981/509/135/closed-circuit-television-wireless-security-camera-surveillance-clip-art-ict-bulletin-cctv-brochure.jpg" group-title="TEST",Quick Test
 rtsp://192.168.51.68/quickview
 #EXTINF:0 tvg-name="Test Video" tvg-logo="https://p7.hiclipart.com/preview/981/509/135/closed-circuit-television-wireless-security-camera-surveillance-clip-art-ict-bulletin-cctv-brochure.jpg" group-title="TEST",Multicast test
-udp://@239.255.0.1
+udp://@239.255.0.1:5004
