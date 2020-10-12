@@ -9,5 +9,11 @@ http://192.168.2.182:8080/video
 rtsp://192.168.51.68/quickview
 #EXTINF:0 tvg-name="Test Video" tvg-logo="https://p7.hiclipart.com/preview/981/509/135/closed-circuit-television-wireless-security-camera-surveillance-clip-art-ict-bulletin-cctv-brochure.jpg" group-title="TEST",Multicast test
 udp://@239.255.0.1:5004
-#EXTINF:0 tvg-name="Test Video" tvg-logo="https://p7.hiclipart.com/preview/981/509/135/closed-circuit-television-wireless-security-camera-surveillance-clip-art-ict-bulletin-cctv-brochure.jpg" group-title="TEST",Multicast test 2
+#EXTINF:0 tvg-name="Entertainment" tvg-logo="https://www.flaticon.com/premium-icon/icons/svg/2504/2504929.svg" group-title="Entertainment",NETFLIX 4K
 udp://@224.1.2.3:10001
+#EXTINF:0 tvg-name="Entertainment" tvg-logo="https://www.flaticon.com/premium-icon/icons/svg/401/401341.svg" group-title="Entertainment",Bluray
+udp://@224.1.2.4:10001
+#EXTINF:0 tvg-name="Entertainment" tvg-logo="https://www.flaticon.com/svg/static/icons/svg/51/51983.svg" group-title="Entertainment",Jetstream
+udp://@224.1.2.5:10001
+#EXTINF:0 tvg-name="Entertainment" tvg-logo="https://www.flaticon.com/svg/static/icons/svg/831/831330.svg" group-title="Entertainment",Apple TV
+udp://@224.1.2.6:10001
