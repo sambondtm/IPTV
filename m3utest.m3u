@@ -13,7 +13,7 @@ udp://@239.255.0.1:5004
 udp://@224.1.2.3:10001
 #EXTINF:0 tvg-name="Entertainment" tvg-logo="https://www.flaticon.com/premium-icon/icons/svg/401/401341.svg" group-title="Entertainment",Bluray
 udp://@224.1.2.4:10001
-#EXTINF:0 tvg-name="Entertainment" tvg-logo="https://www.flaticon.com/svg/static/icons/svg/1204/1204561.svg" group-title="Entertainment",Jetstream
+#EXTINF:0 tvg-name="Entertainment" tvg-logo="https://www.flaticon.com/svg/static/icons/svg/1204/1204561.svg" group-title="Entertainment",Jetset
 udp://@224.1.2.5:10001
-#EXTINF:0 tvg-name="Entertainment" tvg-logo="https://www.flaticon.com/svg/static/icons/svg/831/831330.svg" group-title="Entertainment",Apple TV
+#EXTINF:0 tvg-name="Entertainment" tvg-logo="https://www.flaticon.com/svg/static/icons/svg/831/831330.svg" group-title="Entertainment",AppleTV
 udp://@224.1.2.6:10001
